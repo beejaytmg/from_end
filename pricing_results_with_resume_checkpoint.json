@@ -8869,9 +8869,772 @@
         "https://syntaximos.com"
       ],
       "success": false
+    },
+    "Only Browser Recorder": {
+      "name": "Only Browser Recorder",
+      "domain": "https://hjgmm1.com",
+      "error": "No pricing pages found",
+      "success": false
+    },
+    "SuitePreferences™": {
+      "currency": "usd",
+      "plans": [
+        {
+          "name": "Basic",
+          "description": "Free plan with basic NetSuite UI/UX features",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "monthly",
+              "price": 0.0,
+              "currency": "usd",
+              "features": [
+                "Record Inspector",
+                "Portlet Refresher",
+                "UI Zoom",
+                "Privacy Mode",
+                "SuiteGlow themes & fonts",
+                "SuiteConsole",
+                "Show Field IDs",
+                "All Other Pro features"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pro Monthly",
+          "description": "Pro plan with advanced features, billed monthly",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "monthly",
+              "price": 5.99,
+              "currency": "usd",
+              "features": [
+                "All Basic features",
+                "SuiteGlow themes & fonts",
+                "SuiteConsole",
+                "Show Field IDs",
+                "Connected Scripts & Workflows",
+                "Record Browser",
+                "1 User Account (transferable)*",
+                "14-day Free Trial"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pro Yearly",
+          "description": "Pro plan with advanced features, billed annually",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "yearly",
+              "price": 60.0,
+              "currency": "usd",
+              "features": [
+                "All Basic & Pro Monthly features",
+                "Billed Annually",
+                "1 User Account (transferable)*",
+                "14-day Free Trial"
+              ]
+            }
+          ]
+        }
+      ],
+      "name": "SuitePreferences™",
+      "domain": "https://suitepreferences.com",
+      "source_url": "https://suitepreferences.com",
+      "success": true,
+      "content_length": 1627
+    },
+    "Wallabi: AI Data Analysis for Google Sheets, GA4, Salesforce, HubSpot": {
+      "name": "Wallabi: AI Data Analysis for Google Sheets, GA4, Salesforce, HubSpot",
+      "domain": "https://wallabi.ai",
+      "error": "All URLs failed to yield valid pricing data",
+      "attempted_urls": [
+        "https://wallabi.ai/",
+        "https://wallabi.ai",
+        "https://app.wallabi.ai"
+      ],
+      "success": false
+    },
+    "Kindle highlight exporter": {
+      "currency": "usd",
+      "plans": [
+        {
+          "name": "Pro Subscription",
+          "description": "Take advantage of Pro features, including unlimited annotations and more storage.",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "monthly",
+              "price": 19.99,
+              "currency": "usd",
+              "features": [
+                "Annotations: Add, remove, edit, tag and extract unlimited number of annotations",
+                "Anki flashcards: Automatically create unlimited Anki flashcards from your notes and highlights",
+                "Storage: 5GB of document storage and unlimited annotation storage",
+                "Technical Support: Email support from people who care about the product"
+              ]
+            }
+          ]
+        }
+      ],
+      "name": "Kindle highlight exporter",
+      "domain": "https://sumnotes.net",
+      "source_url": "https://www.sumnotes.net/pricing/",
+      "success": true,
+      "content_length": 735
+    },
+    "SaySync": {
+      "currency": "eur",
+      "plans": [
+        {
+          "name": "Monthly Plan",
+          "description": "Instantly see which Outlook contacts are already in your Pipedrive CRM. Search for contacts in your CRM by name, email address, phone number, and organization. Save Outlook contacts directly into your Pipedrive CRM. Have all the Pipedrive deals, activities, and notes of the contact next to your email conversation in Outlook. Create new Pipedrive deals, activities, and notes without leaving Outlook. Always keep deals up to date. 24/7 support via email and phone. GDPR compliant. 30 day free trial.",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "monthly",
+              "price": 6.99,
+              "currency": "eur",
+              "features": [
+                "Instantly see which Outlook contacts are already in your Pipedrive CRM",
+                "Search for contacts in your CRM by name, email address, phone number, and organization",
+                "Save Outlook contacts directly into your Pipedrive CRM",
+                "Have all the Pipedrive deals, activities, and notes of the contact next to your email conversation in Outlook",
+                "Create new Pipedrive deals, activities, and notes without leaving Outlook",
+                "Always keep deals up to date",
+                "24/7 support via email and phone",
+                "GDPR compliant",
+                "30 day free trial"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lifetime Plan",
+          "description": "Instantly see which Outlook contacts are already in your Pipedrive CRM. Search for contacts in your CRM by name, email address, phone number, and organization. Save Outlook contacts directly into your Pipedrive CRM. Have all the Pipedrive deals, activities, and notes of the contact next to your email conversation in Outlook. Create new Pipedrive deals, activities, and notes without leaving Outlook. Always keep deals up to date. 24/7 support via email and phone. GDPR compliant. 30 day free trial.",
+          "pricing_tiers": [
+            {
+              "type": "one_time",
+              "usage_type": "licensed",
+              "billing_period": null,
+              "price": 169.99,
+              "currency": "eur",
+              "features": [
+                "Instantly see which Outlook contacts are already in your Pipedrive CRM",
+                "Search for contacts in your CRM by name, email address, phone number, and organization",
+                "Save Outlook contacts directly into your Pipedrive CRM",
+                "Have all the Pipedrive deals, activities, and notes of the contact next to your email conversation in Outlook",
+                "Create new Pipedrive deals, activities, and notes without leaving Outlook",
+                "Always keep deals up to date",
+                "24/7 support via email and phone",
+                "GDPR compliant",
+                "30 day free trial"
+              ]
+            }
+          ]
+        }
+      ],
+      "name": "SaySync",
+      "domain": "https://saysync.co",
+      "source_url": "https://saysync.co/en#pricing",
+      "success": true,
+      "content_length": 6444
+    },
+    "Colors with You": {
+      "name": "Colors with You",
+      "domain": "https://colorswithyou.com",
+      "error": "All URLs failed to yield valid pricing data",
+      "attempted_urls": [
+        "https://colorswithyou.com",
+        "https://colorswithyou.com/",
+        "https://www.figma.com/community/plugin/1376145515371505399/colors-with-you"
+      ],
+      "success": false
+    },
+    "FilterFred YouTube Age Filter": {
+      "currency": "usd",
+      "plans": [
+        {
+          "name": "Filter Fred",
+          "description": "Keep your kids safe online with age-appropriate YouTube content filtering.",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "monthly",
+              "price": 5.0,
+              "currency": "usd",
+              "features": [
+                "AI powered",
+                "Age Group Content Filtering",
+                "Schedules",
+                "Viewing History",
+                "Dashboard"
+              ]
+            },
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "yearly",
+              "price": 50.0,
+              "currency": "usd",
+              "features": [
+                "AI powered",
+                "Age Group Content Filtering",
+                "Schedules",
+                "Viewing History",
+                "Dashboard"
+              ]
+            }
+          ]
+        }
+      ],
+      "name": "FilterFred YouTube Age Filter",
+      "domain": "https://filterfred.app",
+      "source_url": "https://www.filterfred.app/pricing",
+      "success": true,
+      "content_length": 447
+    },
+    "WA Bulk Message Sender - easywasender": {
+      "name": "WA Bulk Message Sender - easywasender",
+      "domain": "https://easywasender.com",
+      "error": "All URLs failed to yield valid pricing data",
+      "attempted_urls": [
+        "https://easywasender.com/Pricing",
+        "https://easywasender.com/pricing",
+        "https://easywasender.com"
+      ],
+      "success": false
+    },
+    "Zoho Integration for WhatsApp Web": {
+      "name": "Zoho Integration for WhatsApp Web",
+      "domain": "https://encodingz.com",
+      "error": "No pricing pages found",
+      "success": false
+    },
+    "Imitate Email": {
+      "currency": "usd",
+      "plans": [
+        {
+          "name": "Free",
+          "description": "Sign up for free and get 15 emails every day forever",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "monthly",
+              "price": 0.0,
+              "currency": "usd",
+              "features": [
+                "15 emails per day"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Developer",
+          "description": "For solo developers getting serious",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "monthly",
+              "price": 7.0,
+              "currency": "usd",
+              "features": [
+                "1 user",
+                "0 widget users",
+                "1 personal mailbox per user",
+                "0 team mailboxes",
+                "2000 monthly emails",
+                "10 daily forwards",
+                "30 day retention",
+                "10MB max message size",
+                "POP3/IMAP support",
+                "Web Sockets",
+                "Unbranded Web Widget: no",
+                "Extra users: not available",
+                "$1.00 increased daily emails /mo /100 emails",
+                "More mailboxes: not available",
+                "Longer data retention: not available"
+              ]
+            },
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "annual",
+              "price": 39.0,
+              "currency": "usd",
+              "features": [
+                "1 user",
+                "0 widget users",
+                "1 personal mailbox per user",
+                "0 team mailboxes",
+                "2000 monthly emails",
+                "10 daily forwards",
+                "30 day retention",
+                "10MB max message size",
+                "POP3/IMAP support",
+                "Web Sockets",
+                "Unbranded Web Widget: no",
+                "Extra users: not available",
+                "$1.00 increased daily emails /mo /100 emails",
+                "More mailboxes: not available",
+                "Longer data retention: not available"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Starter",
+          "description": "A few developers on one project",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "monthly",
+              "price": 15.0,
+              "currency": "usd",
+              "features": [
+                "3 users",
+                "3 active widget users",
+                "1 personal mailbox per user",
+                "5 team mailboxes",
+                "5000 monthly emails",
+                "25 daily forwards",
+                "30 day retention",
+                "10MB max message size",
+                "POP3/IMAP support",
+                "Web Sockets",
+                "Unbranded Web Widget: yes",
+                "$3.00 extra users /mo /user",
+                "$1.00 increased daily emails /mo /100 emails",
+                "$1.00 more mailboxes /mo /5 mailboxes",
+                "$1.00 longer data retention /mo /30 days"
+              ]
+            },
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "annual",
+              "price": 149.0,
+              "currency": "usd",
+              "features": [
+                "3 users",
+                "3 active widget users",
+                "1 personal mailbox per user",
+                "5 team mailboxes",
+                "5000 monthly emails",
+                "25 daily forwards",
+                "30 day retention",
+                "10MB max message size",
+                "POP3/IMAP support",
+                "Web Sockets",
+                "Unbranded Web Widget: yes",
+                "$3.00 extra users /mo /user",
+                "$1.00 increased daily emails /mo /100 emails",
+                "$1.00 more mailboxes /mo /5 mailboxes",
+                "$1.00 longer data retention /mo /30 days"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Team",
+          "description": "A small team with multiple projects",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "monthly",
+              "price": 39.0,
+              "currency": "usd",
+              "features": [
+                "15 users",
+                "15 active widget users",
+                "1 personal mailbox per user",
+                "15 team mailboxes",
+                "20000 monthly emails",
+                "100 daily forwards",
+                "30 day retention",
+                "15MB max message size",
+                "POP3/IMAP support",
+                "Web Sockets",
+                "Unbranded Web Widget: yes",
+                "$2.00 extra users /mo /user",
+                "$1.00 increased daily emails /mo /100 emails",
+                "$1.00 more mailboxes /mo /5 mailboxes",
+                "$1.00 longer data retention /mo /30 days"
+              ]
+            },
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "annual",
+              "price": 399.0,
+              "currency": "usd",
+              "features": [
+                "15 users",
+                "15 active widget users",
+                "1 personal mailbox per user",
+                "15 team mailboxes",
+                "20000 monthly emails",
+                "100 daily forwards",
+                "30 day retention",
+                "15MB max message size",
+                "POP3/IMAP support",
+                "Web Sockets",
+                "Unbranded Web Widget: yes",
+                "$2.00 extra users /mo /user",
+                "$1.00 increased daily emails /mo /100 emails",
+                "$1.00 more mailboxes /mo /5 mailboxes",
+                "$1.00 longer data retention /mo /30 days"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Business",
+          "description": "Larger orgs with multiple teams",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "monthly",
+              "price": 149.0,
+              "currency": "usd",
+              "features": [
+                "100 users",
+                "100 active widget users",
+                "1 personal mailbox per user",
+                "100 team mailboxes",
+                "200000 monthly emails",
+                "1000 daily forwards",
+                "30 day retention",
+                "25MB max message size",
+                "POP3/IMAP support",
+                "Web Sockets",
+                "Unbranded Web Widget: yes",
+                "$1.00 extra users /mo /user",
+                "$1.00 increased daily emails /mo /100 emails",
+                "$1.00 more mailboxes /mo /5 mailboxes",
+                "$1.00 longer data retention /mo /30 days"
+              ]
+            },
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "annual",
+              "price": 1499.0,
+              "currency": "usd",
+              "features": [
+                "100 users",
+                "100 active widget users",
+                "1 personal mailbox per user",
+                "100 team mailboxes",
+                "200000 monthly emails",
+                "1000 daily forwards",
+                "30 day retention",
+                "25MB max message size",
+                "POP3/IMAP support",
+                "Web Sockets",
+                "Unbranded Web Widget: yes",
+                "$1.00 extra users /mo /user",
+                "$1.00 increased daily emails /mo /100 emails",
+                "$1.00 more mailboxes /mo /5 mailboxes",
+                "$1.00 longer data retention /mo /30 days"
+              ]
+            }
+          ]
+        }
+      ],
+      "name": "Imitate Email",
+      "domain": "https://imitate.email",
+      "source_url": "https://imitate.email/pricing",
+      "success": true,
+      "content_length": 3647
+    },
+    "AI Web Analyzer - Analyze web pages using AI, GPT-4o": {
+      "currency": "usd",
+      "plans": [
+        {
+          "name": "Free",
+          "description": "Limited access.",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "monthly",
+              "price": 0.0,
+              "currency": "usd",
+              "features": [
+                "ChatGPT Browser integration",
+                "GPT-4o-Mini A.I. Model",
+                "100 compute credits"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Starter",
+          "description": "Perfect for simple use cases.",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "monthly",
+              "price": 4.99,
+              "currency": "usd",
+              "features": [
+                "All features in Free plan",
+                "GPT-4o A.I. model",
+                "Beta Features Access",
+                "2500 compute credits"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Advanced",
+          "description": "Advanced use cases.",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "monthly",
+              "price": 9.99,
+              "currency": "usd",
+              "features": [
+                "All Features in Starter",
+                "o1 preview A.I. model access (coming soon)",
+                "Larger context window",
+                "7500 compute credits"
+              ]
+            }
+          ]
+        }
+      ],
+      "name": "AI Web Analyzer - Analyze web pages using AI, GPT-4o",
+      "domain": "https://botagora.com",
+      "source_url": "https://botagora.com/#pricing",
+      "success": true,
+      "content_length": 2281
+    },
+    "Fiverr Chirp": {
+      "name": "Fiverr Chirp",
+      "domain": "https://fiverrchirp.com",
+      "error": "No pricing pages found",
+      "success": false
+    },
+    "xProspector": {
+      "currency": "usd",
+      "plans": [
+        {
+          "name": "Free Discovery",
+          "description": "Free 50 credits. Email required, one-time per email. Start Free.",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "monthly",
+              "price": 0.0,
+              "currency": "usd",
+              "features": [
+                "50 credits",
+                "Keyword-Based Prospecting",
+                "Follower Analysis",
+                "Project Organization",
+                "AI-Powered Messaging",
+                "Advanced Analytics",
+                "Smart Filtering"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Starter",
+          "description": "100 credits. Ideal for niche testing.",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "monthly",
+              "price": 9.0,
+              "currency": "usd",
+              "features": [
+                "100 credits",
+                "Keyword-Based Prospecting",
+                "Follower Analysis",
+                "Project Organization",
+                "AI-Powered Messaging",
+                "Advanced Analytics",
+                "Smart Filtering"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Growth",
+          "description": "500 credits. Frequent but targeted.",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "monthly",
+              "price": 29.0,
+              "currency": "usd",
+              "features": [
+                "500 credits",
+                "Keyword-Based Prospecting",
+                "Follower Analysis",
+                "Project Organization",
+                "AI-Powered Messaging",
+                "Advanced Analytics",
+                "Smart Filtering"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Agency",
+          "description": "2000 credits. For prospecting agencies.",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "monthly",
+              "price": 79.0,
+              "currency": "usd",
+              "features": [
+                "2000 credits",
+                "Keyword-Based Prospecting",
+                "Follower Analysis",
+                "Project Organization",
+                "AI-Powered Messaging",
+                "Advanced Analytics",
+                "Smart Filtering"
+              ]
+            }
+          ]
+        }
+      ],
+      "name": "xProspector",
+      "domain": "https://xprospector.com",
+      "source_url": "https://xprospector.com/",
+      "success": true,
+      "content_length": 3642
+    },
+    "RoboCat Extension": {
+      "name": "RoboCat Extension",
+      "domain": "https://lago.dev",
+      "error": "No pricing pages found",
+      "success": false
+    },
+    "CogniXtract - Twitter/X Scraper & AI Exporter": {
+      "currency": "usd",
+      "plans": [
+        {
+          "name": "Free",
+          "description": "120 posts/day",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "yearly",
+              "price": 0.0,
+              "currency": "usd",
+              "features": [
+                "Basic features",
+                "120 posts per day",
+                "No credit card required"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creator",
+          "description": "5,000 posts/day",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "monthly",
+              "price": 15.0,
+              "currency": "usd",
+              "features": [
+                "All free features",
+                "5,000 posts per day",
+                "Priority support"
+              ]
+            },
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "yearly",
+              "price": 144.0,
+              "currency": "usd",
+              "features": [
+                "All free features",
+                "5,000 posts per day",
+                "Priority support"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pro",
+          "description": "20,000 posts/day",
+          "pricing_tiers": [
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "monthly",
+              "price": 39.0,
+              "currency": "usd",
+              "features": [
+                "All Creator features",
+                "20,000 posts per day",
+                "Advanced analytics"
+              ]
+            },
+            {
+              "type": "recurring",
+              "usage_type": "licensed",
+              "billing_period": "yearly",
+              "price": 374.0,
+              "currency": "usd",
+              "features": [
+                "All Creator features",
+                "20,000 posts per day",
+                "Advanced analytics"
+              ]
+            }
+          ]
+        }
+      ],
+      "name": "CogniXtract - Twitter/X Scraper & AI Exporter",
+      "domain": "https://cognixtract.com",
+      "source_url": "https://cognixtract.com/pricing?customer_email=&user_id=",
+      "success": true,
+      "content_length": 495
+    },
+    "MyOrderBox": {
+      "name": "MyOrderBox",
+      "domain": "https://myorderbox.co.uk",
+      "error": "No pricing pages found",
+      "success": false
     }
   },
-  "processed_count": 154,
+  "processed_count": 170,
   "total_count": 1213,
-  "timestamp": 1758799167.0527062
+  "timestamp": 1758801449.481369
 }

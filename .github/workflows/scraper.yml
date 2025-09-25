@@ -7,7 +7,9 @@ on:
   # Optionally run on a schedule
   # schedule:
   #   - cron: '0 9 * * 1'  # Every Monday at 9 AM UTC
-
+permissions:
+  contents: write  # To push changes back to the repo
+  actions: read    # To upload artifacts
 jobs:
   scrape-data:
     runs-on: ubuntu-latest
